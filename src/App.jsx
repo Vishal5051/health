@@ -1,8 +1,9 @@
 import React from 'react';
-import HeroSection from './components/HeroSection';
-import FeatureCards from './components/FeatureCards';
-import Testimonials from './components/Testimonials';
-import ContactForm from './components/ContactForm';
+
+import HeroSection from './Components/HeroSection';
+import FeatureCards from './Components/FeatureCards';
+import Testimonials from './Components/Testimonials';
+import ContactForm from './Components/ContactForm';
 import './App.css';
 
 function App() {
