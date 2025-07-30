@@ -1,0 +1,119 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f8f9fa;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.hero {
+  background-color: #e3f2fd;
+  padding: 60px 20px;
+}
+
+.cta-button {
+  margin-top: 20px;
+  padding: 12px 24px;
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.features {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px;
+  flex-wrap: wrap;
+}
+
+.feature-card {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  flex: 1 1 250px;
+  border-radius: 8px;
+}
+
+.testimonials {
+  background: #f1f8e9;
+  padding: 40px 20px;
+}
+
+.contact {
+  background: #fff3e0;
+  padding: 40px 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+input,
+textarea {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px;
+  background-color: #ff9800;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.hero {
+  background-color: #e3f2fd;
+  padding: 60px 20px;
+}
+.cta-button {
+  padding: 10px 20px;
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+
+
+.features {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px 10px;
+  flex-wrap: wrap;
+}
+.feature-card {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  flex: 1 1 250px;
+  border-radius: 8px;
+}
+
